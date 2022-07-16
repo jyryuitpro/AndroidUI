@@ -5,6 +5,7 @@
 
 - 속성
     - orientation : 자식의 뷰의 방향을 설정
+    - weight : 자식이 차지할 크기의 비율을 설정
 
 크기를 설정하는 특수한 키워드
 - match_parent
