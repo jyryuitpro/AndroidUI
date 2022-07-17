@@ -1,0 +1,17 @@
+Resource
+- drawable
+    - 이미지
+        - 실제 이미지 파일, xml
+- layout
+    - 화면을 구성하는 xml
+- mipmap
+    - 앱 아이콘
+- values
+    - colors
+        - 색
+        - RGB(Red, Green, Blue)
+        <color name="jyryuitpro">#FF(투명도) 00(R) 00(G) 00(B)</color>
+        - 16진수 (colors에서 숫자가 아니라 알파벳이 오는 이유)
+        - 10A, 11B, 12C, 13D, 14E, 15F
+    - strings
+        - 문자열
